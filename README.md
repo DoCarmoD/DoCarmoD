@@ -24,5 +24,11 @@ Heey DoCarmoDev, tenho 22 anos, estou no primeiro semestre de Análise e Desenvo
    
 
 </div>
-  
+  <div>
+    <br><br>
+  <a href="https://www.linkedin.com/in/matheus-souto-897636230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+    
    ![Snake animation](https://github.com/DoCarmoD/DoCarmoD/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>
