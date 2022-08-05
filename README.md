@@ -24,6 +24,16 @@ Tenho 22 anos, estou no segundo semestre de Análise e Desenvolvimento De Sistem
    <h2>Banco de Dados</h2>
         <img align="center"  height="40" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
 
+   <h2>IDE'S</h2>
+        <img align="center"  height="40" width="120" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+        <img align="center"  height="40" width="120" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
+        <img align="center"  height="40" width="120" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+        <img align="center"  height="40" width="120" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+
+   <h2>Plataformas de Prototipagem</h2>
+        <img align="center"  height="40" width="120" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> 
+
+
    <h2>Contato</h2>  
         <a href="https://www.linkedin.com/in/matheus-souto-897636230/" target="_blank"><img width="120" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         <p>devdocarmo@gmail.com </p>
