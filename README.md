@@ -1,4 +1,4 @@
-Heey DoCarmoDev, tenho 22 anos, estou no primeiro semestre de Análise e Desenvolvimento De Sistemas, todas as tecnologias abaixo tenho conhecimento básico e estou estudando exceto HTML e CSS com conhecimento avançado(semântica, flex box...)
+Tenho 22 anos, estou no segundo semestre de Análise e Desenvolvimento De Sistemas, todas as tecnologias abaixo tenho conhecimento básico e estou estudando exceto HTML e CSS com conhecimento avançado(semântica, flex box...)
 
 <div align="center">
   <a href="https://github.com/DoCarmoD">
@@ -7,26 +7,29 @@ Heey DoCarmoDev, tenho 22 anos, estou no primeiro semestre de Análise e Desenvo
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    
-    
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    
-    
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-   
 
+  <h2>Linguagens de Programação</h2>
+        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    
+  <h2>Linguagens de Marcação e Estilo</h2>  
+        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+  <h2>Sistemas Operacionais</h2>     
+        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  
+   <h2>Banco de Dados</h2>
+        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
+
+   <h2>Contato</h2>  
+        <a href="https://www.linkedin.com/in/matheus-souto-897636230/" target="_blank"><img width="120" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <p>devdocarmo@gmail.com </p>
+           
 </div>
   <div>
-    <br><br>
-  <a href="https://www.linkedin.com/in/matheus-souto-897636230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
     
    ![Snake animation](https://github.com/DoCarmoD/DoCarmoD/blob/output/github-contribution-grid-snake.svg)
