@@ -1,42 +1,45 @@
-Tenho 22 anos, estou no segundo semestre de Análise e Desenvolvimento De Sistemas, todas as tecnologias abaixo tenho conhecimento básico e estou estudando exceto HTML e CSS com conhecimento avançado(semântica, flex box...)
+A tecnologia é fascinante aos olhos de quem a usa diariamente, e hoje em dia quem não faz isso? Entender o que se passa por tráz do que vemos quando estamos lidando com tecnologia é meu fascínio, e nada melhor que a capacidade de resolver problemas, e arte de transformar um problema grande em vários pequeninos nos da a capacidade de scripts e softwares que facilitam a vida das pessoas, e esse é o meu objetivo pessoal, ninguém sabe que precisa de algo até precisar.... A visão periférica que obtive após anos consumindo tecnologia por hobby me permitem enxergar os problemas que as pessoas ainda não conseguem ver, ninguém sabia que precisava de um aplicativo para solicitar transporte, até que esse app mostrou-se necessário, tenha uma visão macro sobre as necessidades de quem está ao seu redor, e assim as melhores oportunidades lhe baterão a porta!!!! Tenho 23 anos e curso atualmente Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/DoCarmoD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoCarmoD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoCarmoD&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=DoCarmoD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoCarmoD&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
   <div style="display: inline_block"><br>
 
   <h2>Linguagens de Programação</h2>
-        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+        <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+        <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+        <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     
   <h2>Linguagens de Marcação e Estilo</h2>  
-        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> 
+        <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 
   <h2>Sistemas Operacionais</h2>     
-        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+        <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
+        <img align="center"  height="40" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
         <img align="center"  height="40" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   
    <h2>Banco de Dados</h2>
-        <img align="center"  height="40" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
+        <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> 
+        <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> 
+        <img align="center"  height="70" width="120" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"> 
 
-   <h2>IDE'S</h2>
-        <img align="center"  height="40" width="120" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-        <img align="center"  height="40" width="120" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
+   <h2>Devops</h2>
+        <img align="center"  height="70" width="120" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+        <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> 
         <img align="center"  height="40" width="120" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
         <img align="center"  height="40" width="120" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 
    <h2>Plataformas de Prototipagem</h2>
-        <img align="center"  height="40" width="120" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> 
-
+        <img align="center"  height="70" width="120" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> 
+ 
 
    <h2>Contato</h2>  
-        <a href="https://www.linkedin.com/in/matheus-souto-897636230/" target="_blank"><img width="120" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <a href="https://www.linkedin.com/in/matheus-souto-897636230/" target="_blank"><img width="120" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"></a> 
         <p>devdocarmo@gmail.com </p>
            
 </div>
