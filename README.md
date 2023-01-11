@@ -31,8 +31,7 @@ A tecnologia é fascinante aos olhos de quem a usa diariamente, e hoje em dia qu
    <h2>Devops</h2>
         <img align="center"  height="70" width="120" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
         <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> 
-        <img align="center"  height="40" width="120" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-        <img align="center"  height="40" width="120" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+       
 
    <h2>Plataformas de Prototipagem</h2>
         <img align="center"  height="70" width="120" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> 
