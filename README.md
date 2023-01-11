@@ -40,7 +40,6 @@ A tecnologia é fascinante aos olhos de quem a usa diariamente, e hoje em dia qu
 
    <h2>Contato</h2>  
         <a href="https://www.linkedin.com/in/matheus-souto-897636230/" target="_blank"><img width="120" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"></a> 
-        <p>devdocarmo@gmail.com </p>
            
 </div>
   <div>
