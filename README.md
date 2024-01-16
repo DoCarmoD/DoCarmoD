@@ -11,7 +11,6 @@ A tecnologia é fascinante aos olhos de quem a usa diariamente, e hoje em dia qu
   <h2>Linguagens de Programação</h2>
         <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
         <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-        <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     
   <h2>Linguagens de Marcação e Estilo</h2>  
         <img align="center"  height="70" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> 
